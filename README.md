@@ -23,7 +23,7 @@
 
 <details align="center">
 
-<summary><samp><b>Extend... </b></samp></summary>
+<summary><samp><b>Show more. </b></samp></summary>
 
 <h2></h2><br>
 
