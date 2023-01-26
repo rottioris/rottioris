@@ -27,9 +27,31 @@
 
 <h2></h2><br>
 
-![sd](https://user-images.githubusercontent.com/121737914/214903955-a0831ecf-8bc6-443d-b484-247b25a75fcd.png)
+<img aling="center" width="90"
+     src="https://user-images.githubusercontent.com/121737914/214912122-33b00dce-b08a-468b-bab8-1aabdc9dd363.png"/>
 
-<b> Ori 
-        <br>
-        Welcome to my github repository, I'm ´Ori a freelance programmer.
+<b> Ori.
+<br>
+        Hello everyone my name is Ori, acutal mind I am an engineering student, I usually dedicate part of my free time to study programming and do different projects of this type.
+
+
+These are the languages that I use the most and the time in which I have been developing.
 </b>
+</br>
+	
+📊 **Weekly development breakdown**
+```text
+Python      4 hrs 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    5 hrs 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Bash        1 hr 06 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   0.15
+```
+ 
+<h2>About me. </h2>
+<br>
+        Hello everyone my name is Ori, acutal mind I am an engineering student, I usually dedicate part of my free time to study programming and do different projects of this type.
+
+
+These are the languages that I use the most and the time in which I have been developing.
+
+</br>
