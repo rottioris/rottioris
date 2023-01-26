@@ -6,7 +6,7 @@
       <b>
         Ori
       <br>
-        Welcome to my github repository, I'm ´Ori a freelance programmer.
+        Welcome to my github repository, I'm Ori a freelance programmer.
       </b>
       </samp><br>
    </p>
