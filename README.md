@@ -27,8 +27,9 @@
 
 <h2></h2><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d1d1d1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ori;I'm+22+years+old;I+am+an+engineering+student;I+usually+dedicate+part+of+my+free+time;to+study+programming;and+do+different+projects;+of+this+type.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d1d1d1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ori;I'm+an+engineering+student;I'm+currently+working+as+a+freelance+programmer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+	
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&count_private=true&hide_border=true&title_color=d1d1d1&icon_color=d1d1d1&text_color=c9d1d9&bg_color=0d1117" alt="Ori github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&layout=compact&hide_border=true&title_color=d1d1d1&icon_color=d1d1d1&text_color=c9d1d9&bg_color=0d1117" />
