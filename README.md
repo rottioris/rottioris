@@ -57,15 +57,21 @@ Windows                  35 hrs 5 mins       ███████████�
 Fedora 37                 7 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░    35.0%
 ```
 	
-----------
-	
+----------	
 <br>
-        Hello everyone my name is Ori, acutal mind I am an engineering student, I usually dedicate part of my free time to study programming and do different projects of this type.
-
-
-These are the languages that I use the most and the time in which I have been developing.
-
 </br>
 <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/121737914/214914606-7a1c34a2-cba8-4045-952d-7e16f12d883f.png"/>
 
 
+```
+Nickname => Ori.
+SO => Linux Fedora ~ Windows 10.
+Programming languages => [HTML] ~ [CSS] ~ [JavaScript] ~ [Java] ~ [Python].
+Language => ESP ~ ING.
+Game Engines => Renpy ~ Unity.
+
+
+Contact->
+Twitter: @rottioris
+E-mail: rottioris@gmail.com
+```
