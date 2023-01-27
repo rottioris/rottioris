@@ -42,20 +42,20 @@
 📊 **Weekly development breakdown**
 ```text
 🕵️‍♀️ Languages
-Python                   0 hr 00 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   0.00 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   1.30 
 HTML/CSS                 0 hr 00 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   0.00 
 Javascript               0 hr 00 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   0.00 
 Bash                     0 hr 00 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   0.00
 ```
 ```
 🔥 Editors: 
-Vs Code                  0 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
-PyCharm                  0 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
+Vs Code                  3 hrs 1 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   05.10% 
+PyCharm                  0 hrs 0 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
 ```
 ```
 💻 Operating Systems: 
-Windows                  0 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
-Fedora 37                0 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   00.00% 
+Windows                  10 hrs 34 mins        ██████░░░░░░░░░░░░░░░░░░░   40.00% 
+Fedora 37                52 hrs 11 mins        █████████████████████████   100.00% 
 ```
 	
 ----------	
