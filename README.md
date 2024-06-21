@@ -1,14 +1,8 @@
 <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
 
-
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1618409099489583104/1718231923/1500x500" alt="logo">
-</div>
-
-
 <p align="center">
   <samp>
-    <img src="https://avatars.githubusercontent.com/u/121737914?v=4" alt="rottioris">
+    <img src="https://github.com/rottioris/rottioris/assets/121737914/c384fcd8-292a-45c2-bcc6-3a4086f5ef06" alt="rottioris">
   </samp>
 </p>
 
