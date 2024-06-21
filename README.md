@@ -2,13 +2,13 @@
 
 
 <div align="center">
-  <img src="https://github.com/rottioris/rottioris/assets/121737914/0bc7bf9e-c5cf-4834-a79e-2aa1ca193d5f" alt="logo" width="200px">
+  <img src="https://pbs.twimg.com/profile_banners/1618409099489583104/1718231923/1500x500" alt="logo">
 </div>
 
 
 <p align="center">
   <samp>
-    <img src="https://github.com/rottioris/rottioris/assets/121737914/f4c8e3dd-42a8-4e08-8335-beb6e7133f39" alt="rottioris">
+    <img src="https://avatars.githubusercontent.com/u/121737914?v=4" alt="rottioris">
   </samp>
 </p>
 
