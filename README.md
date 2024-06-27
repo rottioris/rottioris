@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <img src="https://github.com/rottioris/rottioris/assets/121737914/c384fcd8-292a-45c2-bcc6-3a4086f5ef06" alt="rottioris">
+    <img src="https://github.com/rottioris/rottioris/assets/121737914/da2edcff-e933-4296-a0d7-57afd3972365" alt="rottioris">
   </samp>
 </p>
 <h1 align="center">Hi there, I'm Rottioris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
