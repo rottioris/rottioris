@@ -49,9 +49,9 @@ const rottioris = {
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="115" alt="stats graph" style="margin-right: 5000;" /> 
-  <img src="https://github.com/rottioris/rottioris/assets/121737914/d7dba920-3b6e-4001-afac-1f7c21489e87" height="115" alt="space" style="margin-right: 5000;" /> 
+  <img src="https://github.com/rottioris/rottioris/assets/121737914/d7dba920-3b6e-4001-afac-1f7c21489e87" height="10" alt="space" style="margin-right: 5000;" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="115" alt="languages graph" />
-  <img src="https://github.com/rottioris/rottioris/assets/121737914/d7dba920-3b6e-4001-afac-1f7c21489e87" height="115" alt="space" style="margin-right: 5000;" />
+  <img src="https://github.com/rottioris/rottioris/assets/121737914/d7dba920-3b6e-4001-afac-1f7c21489e87" height="10" alt="space" style="margin-right: 5000;" />
   <img src="https://ssr-contributions-svg.vercel.app/_/rottioris?chart=calendar&format=svg&weeks=15&theme=purple&dark=true" height="110">
 
 </div>
