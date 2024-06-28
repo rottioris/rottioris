@@ -1,10 +1,4 @@
 <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
-
-<p align="center">
-  <samp>
-    <img src="https://github.com/rottioris/rottioris/assets/121737914/da2edcff-e933-4296-a0d7-57afd3972365" alt="rottioris">
-  </samp>
-</p>
 <h1 align="center">Hi there, I'm Rottioris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
   <samp> 
@@ -22,11 +16,18 @@
   </samp>
 </p>
 
+
 <p align="center">
   <samp>
     <strong>Frontend Developer | Enthusiast | Game Developer</strong>
   </samp>
 </p>
+
+###
+
+###
+
+<img align="right" height="167" src="https://avatars.githubusercontent.com/u/121737914?v=4"  />
 
 ```js
 const rottioris = {
@@ -37,11 +38,19 @@ const rottioris = {
   phrase: "Time waits for no one"
 }
 ```
-<div align="center">
-  
-# My contributions on GitHub
+
+###
+###
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" style="margin-right: 5000;" /> 
+<img src="https://github.com/rottioris/rottioris/assets/121737914/9d0ec633-b708-4a4d-b259-7e4034384d05"  width="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Rottioris?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=purple&dark=true" alt="GitHub Contributions">
-</p>
+
