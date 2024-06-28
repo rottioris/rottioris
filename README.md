@@ -50,7 +50,6 @@ const rottioris = {
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="115" alt="stats graph" style="margin-right: 5000;" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="115" alt="languages graph" />
-  <img src="https://ssr-contributions-svg.vercel.app/_/rottioris?chart=calendar&format=svg&weeks=15&theme=purple&dark=true" height="115">
-
+  <img src="https://ssr-contributions-svg.vercel.app/_/rottioris?chart=calendar&format=svg&weeks=15&theme=purple&dark=true" height="110">
 
 </div>
