@@ -49,7 +49,6 @@ const rottioris = {
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph" style="margin-right: 5000;" /> 
-<img src="https://github.com/rottioris/rottioris/assets/121737914/9d0ec633-b708-4a4d-b259-7e4034384d05"  width="100px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
 
