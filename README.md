@@ -38,14 +38,11 @@ const rottioris = {
   phrase: "Time waits for no one"
 }
 ```
-
 ###
 ###
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rottioris&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="115" alt="stats graph" style="margin-right: 5000;" /> 
