@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="155" src="https://avatars.githubusercontent.com/u/121737914?v=4"  />
+<img align="right" height="154" src="https://avatars.githubusercontent.com/u/121737914?v=4"  />
 
 ```js
 const rottioris = {
