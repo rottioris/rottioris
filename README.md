@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <!-- Imagen de perfil -->
-  <img src="https://avatars.githubusercontent.com/u/185826827?v=4" width="13%" align="right" />
+  <img src="https://avatars.githubusercontent.com/u/185826827?v=4" width="14%" align="right" />
   
   <!-- Información del usuario -->
   <div style="width: 240px;">
