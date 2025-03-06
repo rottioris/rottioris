@@ -8,9 +8,9 @@
   <div style="width: 240px;">
     <pre>
 User      : Rottioris
-OS        : Windows 10 / Manjaro-xfce
+OS        : Windows 10 /  EndeavourOS i3-wm
 Terminal  : PowerShell / Bash
-Editor    : VS Code
+Editor    : Code Insiders
 Machine   : Custom Desktop
 
 </pre>
