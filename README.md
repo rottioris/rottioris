@@ -48,12 +48,12 @@
 ```
 <br>
 <div align="center">
-  
+  <!--  NO FUNCIONA ACTUALMENTE!
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=380" 
     alt="GitHub stats" 
     width="370" 
-  />
+  />  -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
     alt="Top Langs" 
