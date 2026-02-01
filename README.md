@@ -37,17 +37,17 @@
     src="https://github.com/user-attachments/assets/7ecce0c0-87f6-4d4b-9033-b17d889aee62" 
     alt="Profile image"
     align="right"
-    width="162"
+    width="160"
   />
 </div>
 
 ```diff
 + hey! rottioris ~
-@@                                                                                         @@
-@@  Me gusta construir cosas que realmente funcionen — simples, estables y con propósito.  @@
-@@  Trabajo principalmente en Arch linux.                                                  @@
-@@  Suelo moverme entre diferentes lenguajes, según el proyecto lo pida.                   @@
-@@                                                                                         @@
+@@                                                                                       @@
+@@ Me gusta construir cosas que realmente funcionen — simples, estables y con propósito. @@
+@@ Trabajo principalmente en Arch linux.                                                 @@
+@@ Suelo moverme entre diferentes lenguajes, según el proyecto lo pida.                  @@
+@@                                                                                       @@
 ```
 <br>
 
