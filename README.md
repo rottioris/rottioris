@@ -1,4 +1,3 @@
-
 <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
 <!-- Banner superior -->
 <p align="center">
@@ -33,18 +32,22 @@
 
 <h2></h2><br>
 
+<div style="padding-top: 10px;">
   <img 
-    src="https://github.com/user-attachments/assets/bcb6689d-7a39-4c8f-aba1-5821626257de" 
+    src="https://github.com/user-attachments/assets/7ecce0c0-87f6-4d4b-9033-b17d889aee62" 
     alt="Profile image"
     align="right"
-    width="152"
+    width="162"
   />
+</div>
+
 ```diff
-+ hey ~
-@@  rottioris.                                                                             @@
++ hey! rottioris ~
+@@                                                                                         @@
 @@  Me gusta construir cosas que realmente funcionen — simples, estables y con propósito.  @@
-@@  Trabajo principalmente con JavaScript, HTML, CSS, Python y Java.                       @@
-@@  Suelo moverme entre React, Node y Docker, según el proyecto lo pida.                   @@
+@@  Trabajo principalmente en Arch linux.                                                  @@
+@@  Suelo moverme entre diferentes lenguajes, según el proyecto lo pida.                   @@
+@@                                                                                         @@
 ```
 <br>
 
