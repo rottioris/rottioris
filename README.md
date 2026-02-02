@@ -45,7 +45,7 @@
 + hey! rottioris ~
 @@                                                                                       @@
 @@ Me gusta construir cosas que realmente funcionen — simples, estables y con propósito. @@
-@@ Trabajo principalmente en Arch linux.                                                 @@
+@@ Trabajo principalmente en Arch linux.                                                 @@ Mi WM actual es: Niri (Wayland)
 @@ Suelo moverme entre diferentes lenguajes, según el proyecto lo pida.                  @@
 @@                                                                                       @@
 ```
