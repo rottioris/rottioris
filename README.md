@@ -34,7 +34,7 @@
 <h2></h2><br>
 
   <img 
-    src="https://github.com/user-attachments/assets/67706c5f-8f11-4d22-841c-4e405050d60e" 
+    src="https://github.com/user-attachments/assets/bcb6689d-7a39-4c8f-aba1-5821626257de" 
     alt="Profile image"
     align="right"
     width="152"
@@ -47,21 +47,19 @@
 @@  Suelo moverme entre React, Node y Docker, según el proyecto lo pida.                   @@
 ```
 <br>
-<!-- 
+
 <div align="center">
-   NO FUNCIONA ACTUALMENTE!
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=380" 
+    src="https://github-readme-stats-opal-psi-50.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight&card_width=400&line_height=24" 
     alt="GitHub stats" 
-    width="370" 
+    width="365" 
   />  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
+    src="https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=rottioris&theme=tokyonight&layout=compact&langs_count=8"
     alt="Top Langs" 
-    width="280" 
+    width="250" 
   />
 </div>
--->
 
 <h2></h2><br>
 
