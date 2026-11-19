@@ -51,7 +51,7 @@
 <div align="left">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&show_icons=true&theme=tokyonight&layout=compact)
 </div>
 
 <h2></h2><br>
