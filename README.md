@@ -29,7 +29,7 @@
 <br>
 <details align="center">
 
-<summary><samp><b> About me  </b></samp></summary>
+<summary><samp><b>About me 👇</b></samp></summary>
 
 <h2></h2><br>
 
@@ -37,8 +37,7 @@
     src="https://github.com/user-attachments/assets/ecafb627-4651-448f-bea0-523a03557dcc" 
     alt="Profile image"
     align="right"
-    width="125"
-    style="margin-left: 15px;"
+    width="110"
   />
 ```diff
 + hey ~
@@ -48,10 +47,19 @@
 @@  Suelo moverme entre React, Node y Docker, según el proyecto lo pida.                   @@
 ```
 <br>
-<div align="left">
+<div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&show_icons=true&theme=tokyonight&layout=compact)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rottioris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=380" 
+    alt="GitHub stats" 
+    width="370" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottioris&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
+    alt="Top Langs" 
+    width="280" 
+  />
+
 </div>
 
 <h2></h2><br>
