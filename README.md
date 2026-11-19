@@ -3,7 +3,7 @@
 <!-- Banner superior -->
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/4596e3f4-f484-4aed-885b-0d0ad8bdef9c"
+    src="https://github.com/user-attachments/assets/16c1cce4-75e7-4237-b2f4-8666dc575337"
     alt="Banner Rottioris"
     width="749"
     height="276"
@@ -34,10 +34,10 @@
 <h2></h2><br>
 
   <img 
-    src="https://github.com/user-attachments/assets/ecafb627-4651-448f-bea0-523a03557dcc" 
+    src="https://github.com/user-attachments/assets/67706c5f-8f11-4d22-841c-4e405050d60e" 
     alt="Profile image"
     align="right"
-    width="110"
+    width="152"
   />
 ```diff
 + hey ~
