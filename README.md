@@ -48,6 +48,7 @@
 @@ Trabajo principalmente en Arch linux.                                                 @@
 @@ Mi WM actual es: Niri (Wayland)                                                       @@
 @@ Suelo moverme entre diferentes lenguajes, según el proyecto lo pida.                  @@
+@@                                                                                       @@
 ```
 <br>
 
