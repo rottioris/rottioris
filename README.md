@@ -66,10 +66,13 @@
 </div>
 
 <br>
+
+-----
+
 <div id="rottioris" align="Center">
-  <!--
-[![Discord Presence](https://lanyard.cnrad.dev/api/1280330623524929627?bg=1A1C1F&borderRadius=10px&idleMessage=%F0%9F%92%BB%20Sometimes%20I%20write%20code.&hideStatus=true&showDisplayName=true&hideTimestamp=true&hideActivity=true)
--->
+
+![Discord Presence](https://lanyard.cnrad.dev/api/1280330623524929627?bg=1A1C1F&borderRadius=10px&idleMessage=%F0%9F%92%BB%20Sometimes%20I%20write%20code.&hideStatus=true&showDisplayName=true&hideTimestamp=true&hideActivity=true)
+
 </div>
 <br/>
 
